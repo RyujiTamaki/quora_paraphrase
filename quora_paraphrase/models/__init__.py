@@ -1,0 +1,1 @@
+from quora_paraphrase.models.dual_encoder import DualEncoderClassifier
